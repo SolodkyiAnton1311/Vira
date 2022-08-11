@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ffa79b7eafe3cf54c92f330c42c152af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - setkaPrefab: {fileID: 5732877681931977520, guid: 537b6bfd2dcd6df4cbdfafb53133db6f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
